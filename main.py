@@ -1,6 +1,6 @@
 ###############################################################################
 # N.Kozak // Lviv'2020 // ACM // OpenCV faces detection use example by Python #
-#    file: acmhw22.py (renamed to main.py)                                    #
+#    file: acmhw24_2.py (renamed to main.py)                                  #
 ###############################################################################
 import sys
 import cv2 as cv
